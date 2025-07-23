@@ -50,21 +50,19 @@ This project is a modern AI-powered Streamlit web application that allows users 
 ## 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/RajaSuhashKesari/youtube-summarizer-gemini.git
-   cd youtube-summarizer-gemini
+   git clone https://github.com/RajaSuhashKesari/Youtube-Video-Summarize-Application-using-Gemini.git
+   cd Youtube-Video-Summarize-Application-using-Gemini
 ```
 ## 2. Create and activate your Conda environment:
 
    ```bash
 conda create --name venvforgenai python=3.10
 conda activate venvforgenai
-Install dependencies:
 ```
 ## 3. Install dependencies:
 
    ```bash
 pip install -r requirements.txt
-Add your Google API Key in .env file:
 ```
 ## 4. Add your Google API Key in .env file:
    ```bash
